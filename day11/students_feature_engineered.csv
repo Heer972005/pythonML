@@ -1,0 +1,7 @@
+StudentID,Education,Age,Score,Education_Encoded,Age_z,Score_z,AgeGroup,City_Delhi,City_Mumbai,City_Pune,City_Rajkot
+1,Bachelors,21,78,0.0,-1.2900564428035763,-0.2002649885229747,Young,False,False,False,True
+2,Masters,24,85,1.0,-0.9629998798392895,0.5643831494738397,Young,False,True,False,False
+3,PhD,29,91,2.0,-0.4179056082321446,1.219795839185395,Mid-career,False,False,True,False
+4,Bachelors,35,65,0.0,0.23620751769642917,-1.6203258162313445,Mid-career,False,False,False,True
+5,Masters,41,72,1.0,0.890320643625003,-0.85567767823453,Senior,True,False,False,False
+6,PhD,47,88,2.0,1.5444337695535768,0.8920894943296174,Senior,False,False,True,False
