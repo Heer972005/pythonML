@@ -1,0 +1,12 @@
+ Logistic Regression
+ used for traditional Statistics as well as ML
+
+ it predicts whether something is True or False
+ instead of predicting somthing continuous
+
+
+S-shaped(Squiggle) Logistic function
+curve goes from 0 to 1
+
+uses mximum likelihood
+
